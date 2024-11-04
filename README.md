@@ -1,7 +1,7 @@
 # Galactic Gainz :muscle:
 
-<p align="center"> Visit site at <a href="http://soehn.ca/GalacticGainz" target="blank_">soehn.ca/GalacticGainz</a> </p>
-<p align="center"> <img src="./GalacticGainz/media/1.svg"> </p>
+//<p align="center"> Visit site at <a href="http://soehn.ca/GalacticGainz" target="blank_">soehn.ca/GalacticGainz</a> </p>
+//<p align="center"> <img src="./GalacticGainz/media/1.svg"> </p>
 
 
 ## Overview
