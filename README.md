@@ -1,6 +1,6 @@
 # Galactic Gainz :muscle:
 
-<p align="center"> Visit site at <a href="galacticgainz.vercel.app" target="blank_">[galacticgainz.vercel.app](https://galacticgainz-meghanas-projects-d8effd42.vercel.app/home.html)</a> </p>
+<p align="center"> Visit site at <a href="[galacticgainz.vercel.app](https://galacticgainz-meghanas-projects-d8effd42.vercel.app/home.html)" target="blank_">playgame</a> </p>
 <p align="center"> <img src="./GalacticGainz/media/1.svg"> </p>
 
 
