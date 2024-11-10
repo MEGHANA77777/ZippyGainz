@@ -1,4 +1,4 @@
-# Zippy Gainz :muscle:
+# Galactic Gainz :muscle:
 
 
 <p align="center"> <img src="./GalacticGainz/media/1.svg"> </p>
